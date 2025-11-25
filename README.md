@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm **Rakesh Kannan**
 
-<!--
-**Rake-5105/Rake-5105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub!  
+I'm a passionate learner and aspiring **Cybersecurity Expert** who also enjoys building practical tools with **Python**, **Flask**, and **frontend technologies** like **HTML, CSS, and JavaScript**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 Cybersecurity enthusiast with strong interest in **network security**, **ethical hacking**, and **digital forensics**  
+- 🐍 Python programmer, currently mastering advanced concepts  
+- 💻 Working on real-world projects like a **College GPA Calculator (Flask API + Frontend)**    
+- 🔧 Tech experiments: automation scripts, web tools, and cybersecurity practice labs  
+- 🧠 Always learning and exploring new domains in tech
+
+---
+
+## 🧑‍💻 Skills
+- **Programming:** Python, HTML, CSS, JavaScript  
+- **Frameworks:** Flask  
+- **Cybersecurity:** Reconnaissance tools, OSINT, basic malware analysis, Linux fundamentals  
+- **Tools:** Wireshark, Burp Suite (beginner), Nmap, Virtualization tools  
+- **Other:** Report writing, documentation, content creation, leadership roles
+
+---
+
+## 🌱 What I'm Learning Now
+- Advanced Python concepts  
+- Secure coding  
+- Web application security  
+- Networking concepts  
+- Offensive security basics  
+
+---
+
+### ⭐ “Technology is best when it brings people together — and I aim to build tools that do exactly that.”
+
